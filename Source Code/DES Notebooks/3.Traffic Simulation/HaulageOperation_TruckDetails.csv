@@ -1,0 +1,3 @@
+ID,Type,Number of Trucks,Payload (Ton),Minimum Speed (Mile/Hour),Maximum Speed (Mile/Hour),Unloading Time (Minute),Param 1,Param 2
+1,Komatsu HD-785,10,100,5,25,Normal,45,5
+2,Komatsu HD-325,10,100,5,25,Normal,45,5

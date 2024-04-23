@@ -1,0 +1,21 @@
+ID,Name of the trucks,Type,Payload (Ton),Minimum Speed (Mile/Hour),Maximum Speed (Mile/Hour),Unloading Time (Minute),Param 1,Param 2,Source,Destination
+1.0,truck1,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 02,Dump 03
+1.0,truck2,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 02,Dump 03
+1.0,truck3,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck4,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck5,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck6,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck7,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck8,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck9,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+1.0,truck10,HD-785,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck11,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck12,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck13,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck14,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck15,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck16,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck17,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck18,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck19,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
+2.0,truck20,HD-325,100.0,5.0,25.0,Normal,45.0,5.0,Source 01,Dump 01
