@@ -1,0 +1,8 @@
+Truck Type,Number of Trucks,Source,Destination
+Komatsu HD-785,2,Source01,Crusher
+Komatsu HD-785,2,Source01,Stockpile02
+Komatsu HD-785,2,Source01,Stockpile03
+Komatsu HD-785,2,Source01,Dump01
+Komatsu HD-325,2,Source02,Crusher
+Komatsu HD-325,2,Source02,Stockpile01
+Komatsu HD-325,2,Source02,Dump02
