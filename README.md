@@ -44,9 +44,6 @@ AutonoDES/
 │   └── ...
 │
 ├── result/                  # Simulation outputs (figures, charts)
-│   ├── sample_network.png
-│   ├── production_chart.pdf
-│   └── operation_gantt.pdf
 │
 ├── environment.yml          # Conda environment setup
 ├── README.md                # Project overview and usage guide
