@@ -1,6 +1,6 @@
 # AutonoDES
 
-**AutonoDES** stands for **A Discrete Event Simulation Platform for Safety Scrutiny of Autonomous Mining Systems**. This project aims to provide a user-friendly simulation software that enables safety analysis for mixed-fleet (manned and autonomous) mining operations.
+**AutonoDES** stands for **A Discrete Event Simulation Platform for Safety Assessment of Autonomous Mining Systems**. This project aims to provide a user-friendly simulation software that enables safety analysis for mixed-fleet (manned and autonomous) mining operations.
 
 The platform allows mining engineers and planners to run what-if analyses and examine how different policies or operational scenarios affect safety and productivity. Unlike general-purpose simulation tools, **AutonoDES** is designed specifically to support safety evaluations in autonomous haulage systems (AHS).
 
@@ -99,7 +99,8 @@ This repository is licensed under the MIT License.
 
 If you use AutonoDES in your work, please cite the following paper:
 
-> Goli, M., Moniri-Morad, A., Baart, F., Shishvan, M.S., and Sattarvand, J., (2025). *Improving Safety in Hauling Operations: Predicting and Analyzing Collision Probabilities with Discrete Event Simulation*. ESREL-SRA conference, Stavanger, Norway (Accepted).
+> Goli, M., Moniri-Morad, A., Baart, F., Shishvan, M.S., and Sattarvand, J., (2025). *Improving Safety in Hauling Operations: Predicting and Analyzing Collision Probabilities with Discrete Event Simulation*. ESREL-SRA conference, Stavanger, Norway.
+> URL: https://rpsonline.com.sg/proceedings/esrel-sra-e2025/html/ESREL-SRA-E2025-P8086.html 
 
 Related Publications
 
