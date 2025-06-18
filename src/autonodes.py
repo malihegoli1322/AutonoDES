@@ -1,22 +1,33 @@
-# %% [markdown]
-# ### V.R4.1:  
-# In this version, the following functionalities have been added to V.R3:
-# 
-# - Generation of data for truck-to-truck collisions, including a list of points, their density, and the number of occurrences at each point.  
-# - Processing of added points data for other scenarios.  
-# - Generation of Stop Location objects for stop signs.   
-# - Generation of data for collisions with pedestrians and road obstacles, including added points, collision probabilities, and collision numbers.
-# 
-# This modification was also made on V.R4:
-# - The material target level is checked, and the simulation will stop if the target is met.   
-# 
-# **Notes:**  
-# - Sections added in this version are marked with `#V.R4 added`. Please ensure these are included as they are.  
-# - Sections added in V.R3 are also highlighted. If they remain unmodified, you can continue using the corresponding code from V.R3.  
-# - Sections marked with `#V.R4: Modified` contain changes that were too complex to highlight individually. Please copy them exactly as presented in this version.  
-# - Debugging print statements have been left throughout the code for execution testing. You may remove them once the execution is complete.
-# - In this version, the simulation works based on simulation time and material level, whichever occurs first.
-# 
+
+"""
+Version: R4.1
+
+This version builds on R3 with the following key enhancements:
+
+New Functionalities:
+- Truck-to-truck (V2V) collision data generation, including:
+  - Point locations
+  - Density values
+  - Number of occurrences at each point
+- Processing of collision data for other scenarios (V2O, V2P)
+- Stop sign support through creation of StopLocation objects
+- Pedestrian and obstacle collision analysis:
+  - Collision probabilities per location
+  - Number of collisions
+  - Mapped impact points
+
+Simulation Behavior:
+- The simulation now ends based on either:
+  1. Reaching the material target level, or
+  2. Completion of the defined simulation time
+
+Developer Notes:
+- New code sections are marked with: # V.R4 added
+- Code retained from R3 is marked accordingly and may remain unchanged if compatible
+- Modified sections are labeled: # V.R4: Modified
+  (These include substantial changes—please use them as provided)
+- Debug print statements are included for testing; you may remove them after validation
+"""
 
 # %% [markdown]
 # ### 1. Importing All Required Libraries
